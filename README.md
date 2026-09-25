@@ -17,9 +17,11 @@ Moreover, more statistics will be printed after all customers have left such as:
 2. The Average of Expected time in the bank
 3. The Average of time spent in the bank for customers
 
-# How would I build on this idea?
+## How would I build on this idea?
 1. A more complex optimization algorithm to minimize the average time spent could be implemented, instead of a First Come First Serve basis.
 2. Adding Graphics to simulate customers entering and leaving in real-time for better readability. The output is currently only text-based, which makes it hard to follow as the number of customers increase.
 
-# How to run this code:
-There's only one Python file. Simply copy the wall of text and put it in a compiler of your liking. Then run. 
+## How to run
+1. Clone the repository
+2. Run the script
+3. Follow the terminal prompts to enter customer data: to submit each input, press Enter
